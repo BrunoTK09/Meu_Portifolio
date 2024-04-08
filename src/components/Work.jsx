@@ -6,25 +6,13 @@ const data= [
         year: 2024,
         title: 'Merola Informatica',
         duration: 'x months',
-        details: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        details: 'I had the pleasure of working at this family-owned company, composed of a father and son. I participated in the development of the front-end of the website "Onde Sanca", learning a lot about the real functioning of PHP, database, back-end, APIs, React, Vite and other technologies. I consider this experience to be the best I have ever had and I hope to have the opportunity to carry out other projects with this team.',
     },
     {
         year: 2023,
         title: 'NextDial',
         duration: '4 months',
-        details: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    },
-    {
-        year: 2024,
-        title: 'Somewhere',
-        duration: 'x months',
-        details: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-    },
-    {
-        year: 2024,
-        title: 'Somewhere',
-        duration: 'x months',
-        details: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+        details: 'I interned at this start-up as a web developer and technical assistant. I started by developing a radio player using Triton Digital (worst documentation I have ever seen) and monitoring APIs. After that, I went to their website, made in one of the worst languages I have ever seen and used, AngularJS, discontinued in 2021. There I learned the best soft skill on the market: patience. Although I learned a lot from their senior about Git and programming logic',
     },
 ]
 const Work = () => {
