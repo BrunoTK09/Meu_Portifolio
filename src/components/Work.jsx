@@ -14,7 +14,7 @@ const data = [
     title: "NextDial",
     duration: "4 months",
     details:
-      "I interned at this start-up as a web developer and technical assistant. I started by developing a radio player using Triton Digital (worst documentation I have ever seen) and monitoring APIs. After that, I went to their website, made in one of the worst languages I have ever seen and used, AngularJS, discontinued in 2021. There I learned the best soft skill on the market: patience. Although I learned a lot from their senior about Git and programming logic",
+      "During my internship at this startup, I gained experience as a web developer and technical assistant.  My first project involved building a radio player using Triton Digital (whose documentation could definitely be improved). I also had the chance to learn about monitoring APIs.  Their website was built with AngularJS, a framework that's no longer actively supported, the experience definitely helped me develop one of the most important soft skills: patience!  On the bright side, I learned a lot from the senior developer about Git and programming logic, which has been incredibly helpful.",
   },
 ];
 const Work = () => {
