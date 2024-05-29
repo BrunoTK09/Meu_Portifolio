@@ -10,7 +10,7 @@ const Main = () => {
     <div id="main">
       <img
         className="w-full h-screen object-cover scale-x-[1]"
-        src="https://i.pinimg.com/originals/0f/c3/65/0fc365e62a735ec59194ebae2d3c97ff.png"
+        src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Y5OTYtMDI1LWpvYjU5OC5qcGc.jpg"
         alt="/"
       ></img>
       <div className="w-full h-screen absolute top-0 left-0 bg-white/50">
@@ -37,7 +37,13 @@ const Main = () => {
             />
           </h2>
           <div className="flex justify-between pt-6 max-w-[200px] w-full">
-            <FaTwitter className="cursor-pointer" size={20} />
+            <a
+              href="https://twitter.com/X?"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaTwitter className="cursor-pointer" size={20} />
+            </a>
             <FaFacebook className="cursor-pointer" size={20} />
             <FaInstagram className="cursor-pointer" size={20} />
             <FaLinkedin className="cursor-pointer" size={20} />
